@@ -1,5 +1,8 @@
+/Examples/Files/*
 *.AssemblyAttribute.cs
 *.csproj.FilesWrittenAbsolute.txt
 *.dll
 *.dll.mdb
+*.exe
+*.exe.mdb
 *.userprefs
