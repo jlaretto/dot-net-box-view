@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples.csproj", "{B8EC6DA7-D2B5-4E2C-9643-C17F50ECBFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxView", "..\BoxView\BoxView.csproj", "{6DA8296C-405C-422C-A264-9056AD9F5563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA8296C-405C-422C-A264-9056AD9F5563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA8296C-405C-422C-A264-9056AD9F5563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA8296C-405C-422C-A264-9056AD9F5563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA8296C-405C-422C-A264-9056AD9F5563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EC6DA7-D2B5-4E2C-9643-C17F50ECBFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EC6DA7-D2B5-4E2C-9643-C17F50ECBFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EC6DA7-D2B5-4E2C-9643-C17F50ECBFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EC6DA7-D2B5-4E2C-9643-C17F50ECBFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
