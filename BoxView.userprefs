@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="BoxView/BoxView.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Examples/Examples.cs">
+    <Files>
+      <File FileName="BoxView/Base.cs" Line="1" Column="1" />
+      <File FileName="BoxView/BoxViewException.cs" Line="1" Column="1" />
+      <File FileName="BoxView/Request.cs" Line="1" Column="1" />
+      <File FileName="BoxView/Document.cs" Line="1" Column="1" />
+      <File FileName="BoxView/Session.cs" Line="1" Column="1" />
+      <File FileName="Examples/Examples.cs" Line="48" Column="10" />
+      <File FileName="README.md" Line="341" Column="4" />
+      <File FileName="BoxView/BoxViewClient.cs" Line="54" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

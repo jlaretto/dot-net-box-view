@@ -1,1 +1,5 @@
-.userprefs
+*.AssemblyAttribute.cs
+*.csproj.FilesWrittenAbsolute.txt
+*.dll
+*.dll.mdb
+*.userprefs
