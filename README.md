@@ -17,7 +17,7 @@ For more information about the Box View API, see the [API docs at developers.box
 
 ### Install
 
-First, get the library. You can download the package here: [put URL here]
+You can download the package here: http://crocodoc.github.io/dot-net-box-view/BoxView.dll
 
 ## Getting Started
 

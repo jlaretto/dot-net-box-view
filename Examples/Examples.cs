@@ -52,7 +52,7 @@ namespace Examples
         public static void Example1()
         {
             Console.WriteLine("Example #1 - Upload sample file by URL.");
-            var sampleUrl = "http://crocodoc.github.io/php-box-view/examples/files/sample.doc";
+            var sampleUrl = "http://crocodoc.github.io/dot-net-box-view/Examples/Files/sample.doc";
             Console.Write("  Uploading... ");
 
             try
