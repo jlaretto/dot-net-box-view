@@ -255,8 +255,9 @@ namespace BoxView
                               requestOptions: requestOptions);
 
             var client = GetHttpClient();
-            var response = ExecuteAsync(client, request).Result;
-
+            //var response = ExecuteAsync(client, request).Result;
+            //JAL: Hack per https://github.com/crocodoc/dot-net-box-view/issues/2
+            var response = Task.Run(() => ExecuteAsync(client, request)).Result;
             if (response.Headers.RetryAfter != null)
             {
                 var seconds = RequestTimeoutStopwatch.ElapsedMilliseconds / 1000;
